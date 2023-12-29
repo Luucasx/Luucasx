@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá eu so Lucas 👋
+
+### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vinicius-9126a0263/)
 
 <!--
 **Luucasx/Luucasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
